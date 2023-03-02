@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, my name is João Paulo Gotardi Begiato, but you can call me JP 👋
+
+## About me.
+
+I'm natural from Jundiai - SP (Brazil) lover of series (:tv), games (:video_game:), anime & manga (:hotsprings:), comics (:books:), cats(:cat:) and dogs (:dog:). I am married to an incredible woman who supports me in every aspect of my life.
+
+## Career
+
+I'm a chemical engineer but I'm in a career transition to web development, so I participated in a bootcamp at Resilia Educação, where in addition to learning hardskills I was also able to develop softskills.
+
+
 
 <!--
 **Joao-P-G-Begiato/Joao-P-G-Begiato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
