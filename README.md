@@ -2,7 +2,7 @@
 
 ## About me.
 
-I'm natural from Jundiai - SP (Brazil) lover of series (:tv:), games (:video_game:), anime & manga (:hotsprings:), comics (:books:), cats(:cat:) and dogs (:dog:). I am married to an incredible woman who supports me in every aspect of my life.
+I'm natural from Jundiai - SP (Brazil) lover of series , games , anime & manga , comics , cats and dogs I'm married with an incredible woman who supports me in every aspect of my life.
 
 ## Career
 
