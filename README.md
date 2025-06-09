@@ -29,6 +29,9 @@ I chose web development for the following reasons: I have always been passionate
     <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+    <i width="30 px" class="devicon-prisma-original-wordmark"></i>
+          
+
 </div>
 
 ## GitHub Stats:
