@@ -1,77 +1,115 @@
-### Hi there, my name is João Paulo Gotardi Begiato, but you can call me JP 👋
+# 👋 Hey, I'm João Paulo Begiato (JP)
 
-## About me.
+### Backend Developer | TypeScript | Node.js | PostgreSQL
 
-I'm natural from Jundiai - SP (Brazil) lover of series , games , anime & manga , comics , cats and dogs I'm married with an incredible woman who supports me in every aspect of my life.
+Experienced in building APIs, integrations, real-time systems, and cloud-based applications using TypeScript and Node.js. Strong background working with relational databases, ORM frameworks, and scalable backend architectures.
 
-## Career
+---
 
-I'm a chemical engineer but I'm in a career transition to web development, so I participated in a bootcamp at Resilia Educação, where in addition to learning hardskills I was also able to develop softskills.   
+## 🚀 What I Do
 
-I chose web development for the following reasons: I have always been passionate about computers. And I love challenges and overcome myself every day, that's why I found myself so much in the area.
+- ⚙️ Backend Development
+- 🔌 API Design & Integrations
+- ☁️ Cloud Applications
+- 🗄️ Database Modeling
+- 🏗️ Software Architecture
+- 🧪 Automated Testing
+- 📈 Performance & Troubleshooting
 
-## Languages & technologies:
+---
 
-<div>
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-    <i width="30 px" class="devicon-prisma-original-wordmark"></i>
-          
+## 🏗️ Backend Expertise
 
-</div>
+- REST API Development
+- Database Modeling
+- PostgreSQL & SQL Optimization
+- TypeORM, Sequelize & Prisma
+- Authentication & Authorization
+- Third-Party Integrations
+- Event-Driven Systems
+- Firebase & Real-Time Features
+- Cloud Deployments
+- System Troubleshooting & Debugging
 
-## GitHub Stats:
+---
 
-<div>
+## 💻 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ORM & Data
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+### Cloud & Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎯 Currently Interested In
+
+- Distributed Systems
+- Event-Driven Architecture
+- System Design
+- Cloud Infrastructure
+- Scalability
+- Performance Optimization
+
+---
+
+## 🎮 Beyond Code
+
+When I'm not coding, you'll probably find me:
+
+- 🎮 Playing MMORPGs and classic online games
+- 📚 Reading manga and comics
+- 🎬 Watching series and anime
+- 🐶🐱 Spending time with my pets
+- ❤️ Enjoying life with my wife
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <a href="https://github.com/Joao-P-G-Begiato">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-P-G-Begiato&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-P-G-Begiato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-P-G-Begiato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-P-G-Begiato&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
 
-## Contact information
-  How about chatting and having a virtual coffee?   
-  <div>
-  <img width="200 px" src="https://user-images.githubusercontent.com/102306068/222963781-bff907e5-2d5c-4eb4-8764-1e52a9a9568d.png"> 
-</div>
-  
-  ### You can find me on social medias:
+---
+
+## ☕ Let's Connect
+
+I'm always open to discussing technology, backend development, software architecture, and gaming.
+
+<p align="left">
   <a href="https://www.linkedin.com/in/joaopgbegiato">
-    <img width="30 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="mailto:jpbegiato@hotmail.com">
-    <img width="30 px" src="https://img.icons8.com/color/512/ms-outlook.png">
-</a>
-<a href="https://www.instagram.com/joaobegiato/">
-    <img width="30 px" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png">
-</a>
-  
-
-
-<!--
-**Joao-P-G-Begiato/Joao-P-G-Begiato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jpbegiato@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
