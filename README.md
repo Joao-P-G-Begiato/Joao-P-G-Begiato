@@ -92,12 +92,10 @@ When I'm not coding, you'll probably find me:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Joao-P-G-Begiato">
+<div align="center">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-P-G-Begiato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-P-G-Begiato&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
+</div>
 
 ---
 
