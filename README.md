@@ -65,6 +65,9 @@ Experienced in building APIs, integrations, real-time systems, and cloud-based a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Codewars
+
+![CodeWars](https://www.codewars.com/users/Begiato/badges/large)
 ---
 
 ## 🎯 Currently Interested In
